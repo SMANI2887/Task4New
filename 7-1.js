@@ -1,0 +1,5 @@
+myobject = {1:"one",
+11:1,
+name:"arun"}
+console.log(myobject[11]);  //(0r) console.log(myobject['11']);
+console.log(myobject.name);
